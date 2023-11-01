@@ -5,6 +5,7 @@ body {
     background-size: cover;  */
     /* background-color: lightgreen; */
     margin: 0;
+    height: 100vh
 }
 
 /* General */
@@ -145,4 +146,12 @@ a {
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+
+.github {
+  margin-right: 10px;
+}
+
+.linkedin {
+  margin-right: 10px;
 }
