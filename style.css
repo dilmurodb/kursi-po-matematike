@@ -122,3 +122,13 @@ a {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image {
+    width: 100%;
+}
